@@ -2,7 +2,7 @@
 
 | word    | pronoun   | speech    | explain     | split                 | example                                                                                                 |
 | :------ | --------- | --------- | ----------- | --------------------- | ------------------------------------------------------------------------------------------------------- |
-| aback   | [əˈbak]   | adv.      | 向後        | [a] + back            | take aback 吃驚                                                                                         |
+| aback   | [əˈbak]   | adv.      | 向後        | [a] + back            | **_take aback_** 吃驚                                                                                         |
 | abreast | [əˈbrest] | adv.      | 並肩        | [a] + breast          | We should read the newspapers to **_keep abreast of_** current affaris.                                     |
 | afloat  | [əˈflōt]  | adj./adv. | 漂浮        | [a] + float           | Many people who seem cold, holding themselves **_aloof from_** their nieghbors, are actually just very shy. |
 | aloof   | [əˈlo͞of]  | adj./adv. | 冷漠的/遠離 | [a] + loof(leave遠離) |
