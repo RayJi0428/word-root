@@ -10,6 +10,13 @@
 | ajar    | [əˈjär]   | adv.      | 半開的      | [a] + jar(瓶子)       |
 | akin    | [əˈkin]   | adj.      | 類似的      | [a] + kin(gene基因)   |
 | amid    | [əˈmid]   | adj.      | 在其中      | [a] + mid(middle)     |
+| ashore  | [əˈSHôr]  | adv.      | 靠岸        | [a] + shore(岸)       |
+
+> # a + 名詞 = 動詞
+| word    | pronoun    | speech | explain | split                      |
+| :------ | ---------- | ------ | ------- | -------------------------- |
+| abandon | [əˈbandən] | v.     | 放棄    | [a] + ban([bar]禁止) + don |
 
 
-[a]:<./a.md>
+[a]:<a.md>
+[bar]:<bar.md>

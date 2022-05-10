@@ -1,0 +1,8 @@
+> # bar(block,bat) 妨礙
+
+| word | pronoun | speech | explain   | split |
+| :--- | ------- | ------ | --------- | ----- |
+| bar  | [bär]   | n./v.  | 妨礙/禁止 | [bar] |
+
+
+[bar]:<bar.md>
