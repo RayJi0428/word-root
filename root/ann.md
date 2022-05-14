@@ -1,10 +1,7 @@
-# _ann-_
-
-### 意義
--   year(年)
-
-### 單字
--   annual[[ann] [test]]
--   annuity(年金)
+> # ann- year(年)
+| word    | pronoun       | speech | explain | split        | example |
+| :------ | ------------- | ------ | ------- | ------------ | ------- |
+| annual  | [any(o͞o)əl]   | adj.   | 年度的  | [ann] + ual  |         |
+| annuity | [əˈn(y)o͞oədē] | n.     | 年金    | [ann] + uity |         |
 
 [ann]:<./ann.md>
