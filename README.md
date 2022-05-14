@@ -4,6 +4,8 @@
 | 1   | 2    | 3     | 4      | 5-N |
 | --- | ---- | ----- | ------ | --- |
 | [a] | [ab] | [ann] | [audi] | -   |
+| -   | [am] | -     | -      | -   |
+| -   | [an] | -     | -      | -   |
 
 ## B
 | 1   | 2   | 3     | 4   | 5-N |
@@ -17,6 +19,9 @@
 
 [a]:<./root/a.md>
 [ab]:<./root/ab.md>
+[am]:<./root/am.md>
+[an]:<./root/an.md>
+
 [ann]:<./root/ann.md>
 
 [bar]:<./root/bar.md>
