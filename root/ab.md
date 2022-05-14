@@ -17,14 +17,16 @@
 | absolute   | ˈabsəˌlo͞ot  | adj.       | 絕對的           | [ab] +  solu(虛無) + te       |
 | absolve    | əbˈzälv     | v.         | 赦免             | [ab] +  solve(解決)           |
 | absorb     | əbˈzôrb     | v.         | 吸收             | [ab] +  sorb(suck吸)          |
-| abstain    | əbˈstān     | v.         | 戒絕             | abs + tain(take持有)          |
-| abstemious | əbˈstēmēəs  | adj.       | 有節制的         | abs + (s)temi(tain) + ous     |
-| abstract   | ˈæbˌstɹækt  | adj./v./n. | 抽象的/提煉/摘要 | abs + tract(draw抽取)         |
-| abstruse   | abˈstro͞os   | adj.       | 深奧的           | abs + truse(hide away)        |
+| abstain    | əbˈstān     | v.         | 戒絕             | [abs] + tain(take持有)        |
+| abstemious | əbˈstēmēəs  | adj.       | 有節制的         | [abs] + (s)temi(tain) + ous   |
+| abstract   | ˈæbˌstɹækt  | adj./v./n. | 抽象的/提煉/摘要 | [abs] + tract(draw抽取)       |
+| abstruse   | abˈstro͞os   | adj.       | 深奧的           | [abs] + truse(hide away)      |
 | absurd     | əbˈsərd     | adj.       | 荒謬的           | [ab] +  surd(deaf無法聽懂)    |
 | abundant   | əˈbəndənt   | adj.       | 豐富的           | [ab] +  und(wave浪潮) + ant   |
 | abuse      | əˈbjuz      | v.         | 濫用/虐待        | [ab] +  use                   |
 
 [a]:<a.md>
+[ab]:<ab.md>
+[abs]:<ab.md>
 [ia]:<ia.md>
 [bar]:<bar.md>
