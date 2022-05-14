@@ -19,8 +19,8 @@
 
 [a]:<./root/a.md>
 [ab]:<./root/ab.md>
-[am]:<./root/am.md>
-[an]:<./root/an.md>
+[am]:<./root/a.md>
+[an]:<./root/a.md>
 
 [ann]:<./root/ann.md>
 
