@@ -54,6 +54,6 @@
 | analgesic  | [ˌanlˈjēzik]   | n.      | 止痛劑     | [an] + alg(痛) + esic              |                                                                                                                                                           |
 | anesthetic | [ˌanəsˈTHedik] | n.      | 麻醉       | [an] + esthe(feeling) + tic        | Most **anesthetics** put the patients to sleep.                                                                                                           |
 
-[a]:<a.md>
-[ia]:<ia.md>
-[bar]:<bar.md>
+[a]:<a-.md>
+[ia]:<-ia.md>
+[bar]:<bar-.md>

@@ -14,6 +14,6 @@
 | xenophobia  | [ˌzenəˈfōbēə]  | n.     | 仇外心理      | xeno + phob[ia] (恐懼病)           |         |
 | hysteria    | [həˈstirēə]    | n.     | 歇斯底里      | hyste + r[ia] (病)                 |         |
 
-[a]:<a.md>
-[ia]:<ia.md>
-[bar]:<bar.md>
+[a]:<a-.md>
+[ia]:<-ia.md>
+[bar]:<bar-.md>

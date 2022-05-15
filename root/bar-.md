@@ -5,4 +5,4 @@
 | bar    | [bär]   | n./v.  | 妨礙/禁止 | [bar] |         |
 | barred | [bärd]  | adj.   | 禁止的    | [bar] |         |
 
-[bar]:<bar.md>
+[bar]:<bar-.md>
